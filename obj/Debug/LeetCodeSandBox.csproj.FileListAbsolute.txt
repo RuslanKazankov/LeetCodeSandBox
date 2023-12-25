@@ -1,0 +1,15 @@
+C:\Users\kazan\source\repos\LeetCodeSandBox\bin\Debug\LeetCodeSandBox.exe.config
+C:\Users\kazan\source\repos\LeetCodeSandBox\bin\Debug\LeetCodeSandBox.exe
+C:\Users\kazan\source\repos\LeetCodeSandBox\bin\Debug\LeetCodeSandBox.pdb
+C:\Users\kazan\source\repos\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.csproj.AssemblyReference.cache
+C:\Users\kazan\source\repos\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazan\source\repos\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.csproj.CoreCompileInputs.cache
+C:\Users\kazan\source\repos\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.exe
+C:\Users\kazan\source\repos\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.pdb
+C:\Users\kazan\Documents\SoftDevelopment\csharp\LeetCodeSandBox\bin\Debug\LeetCodeSandBox.exe.config
+C:\Users\kazan\Documents\SoftDevelopment\csharp\LeetCodeSandBox\bin\Debug\LeetCodeSandBox.exe
+C:\Users\kazan\Documents\SoftDevelopment\csharp\LeetCodeSandBox\bin\Debug\LeetCodeSandBox.pdb
+C:\Users\kazan\Documents\SoftDevelopment\csharp\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.csproj.AssemblyReference.cache
+C:\Users\kazan\Documents\SoftDevelopment\csharp\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.csproj.CoreCompileInputs.cache
+C:\Users\kazan\Documents\SoftDevelopment\csharp\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.exe
+C:\Users\kazan\Documents\SoftDevelopment\csharp\LeetCodeSandBox\obj\Debug\LeetCodeSandBox.pdb
