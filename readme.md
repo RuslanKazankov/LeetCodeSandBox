@@ -1,2 +1,2 @@
-#LeetCode sandbox
-Program where you can solve problems on leetcode.com
+# LeetCode sandbox
+Program for solves of problems from leetcode.com
